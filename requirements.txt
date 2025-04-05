@@ -1,0 +1,3 @@
+med-minds
+pandas
+numpy
